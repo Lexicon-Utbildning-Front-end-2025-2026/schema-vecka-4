@@ -52,10 +52,10 @@ Efter denna vecka ska du:
 
 ## 📑 Lektionsrepon
 
-* **[Måndag]** (Mandus?) - **Formulär i TypeScript & Typvalidering & Destructuring:** Hantera formulärdata, grundläggande validering av input. Introduktion till Destructuring för objekt och arrayer.
-* **[Tisdag]** (Mandus?) - **Events, Bubbling, Event Handling, Prevent Default:** Fördjupning i händelsehantering, förstå händelseflödet (bubbling), `event.preventDefault()`. Arbeta med att reagera på och manipulera data baserat på events.
-* **[Onsdag]** (Mandus?) - **Intro till Moduler & Projektstruktur:** Varför och hur man använder moduler för att organisera kod i större projekt. Diskussion om projektstruktur. 
-* **[Torsdag]** (Mandus?) - **Repetition & Code-Along:** Repetition av tidigare koncept. Gemensam code-along för ett större projekt för att knyta ihop allt. Jobb med övning på eftermiddagen.
-* **[Fredag]** (Mandus?) - **Code review** FM: code review på övning. EM: e-learning.
+* **[Måndag](https://github.com/Lexicon-Utbildning-Front-end-2025-2026/lektion-19-jan)** (Mandus?) - **Formulär i TypeScript & Typvalidering & Destructuring:** Hantera formulärdata, grundläggande validering av input. Introduktion till Destructuring för objekt och arrayer.
+* **[Tisdag](https://github.com/Lexicon-Utbildning-Front-end-2025-2026/lektion-20-jan)** (Mandus?) - **Events, Bubbling, Event Handling, Prevent Default:** Fördjupning i händelsehantering, förstå händelseflödet (bubbling), `event.preventDefault()`. Arbeta med att reagera på och manipulera data baserat på events.
+* **[Onsdag](https://github.com/Lexicon-Utbildning-Front-end-2025-2026/lektion-21-jan)** (Mandus?) - **Intro till Moduler & Projektstruktur:** Varför och hur man använder moduler för att organisera kod i större projekt. Diskussion om projektstruktur. 
+* **[Torsdag](https://github.com/Lexicon-Utbildning-Front-end-2025-2026/lektion-22-jan)** (Mandus?) - **Repetition & Code-Along:** Repetition av tidigare koncept. Gemensam code-along för ett större projekt för att knyta ihop allt. Jobb med övning på eftermiddagen.
+* **[Fredag](https://github.com/Lexicon-Utbildning-Front-end-2025-2026/lektion-23-jan)** (Mandus?) - **Code review** FM: code review på övning. EM: e-learning.
 
 
