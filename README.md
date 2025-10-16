@@ -1,4 +1,4 @@
-# 📅 schema vecka 4
+# 📅 Schema vecka 4
 
 Övergripande schema över tredje veckan i TypeScript
 
