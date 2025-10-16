@@ -1,4 +1,4 @@
-# 📅 schema-vecka-4
+# 📅 schema vecka 4
 
 Övergripande schema över tredje veckan i TypeScript
 
@@ -52,9 +52,9 @@ Efter denna vecka ska du:
 
 ## 📑 Lektionsrepon
 
-* **[Måndag](https://github.com/Lexicon-frontend-2025/lektion-7-juli)** (Mandus?) - **Formulär i TypeScript & Typvalidering & Destructuring:** Hantera formulärdata, grundläggande validering av input. Introduktion till Destructuring för objekt och arrayer.
-* **[Tisdag](https://github.com/Lexicon-frontend-2025/lektion-9-juli)** (Mandus?) - **Events, Bubbling, Event Handling, Prevent Default:** Fördjupning i händelsehantering, förstå händelseflödet (bubbling), `event.preventDefault()`. Arbeta med att reagera på och manipulera data baserat på events.
-* **[Onsdag](https://github.com/Lexicon-frontend-2025/lektion-10-juli)** (Mandus?) - **Intro till Moduler & Projektstruktur:** Varför och hur man använder moduler för att organisera kod i större projekt. Diskussion om projektstruktur. 
-* **[Torsdag](https://github.com/Lexicon-frontend-2025/lektion-7-juli)** (Mandus?) - **Repetition & Code-Along:** Repetition av tidigare koncept. Gemensam code-along för ett större projekt för att knyta ihop allt.
+* **[Måndag]** (Mandus?) - **Formulär i TypeScript & Typvalidering & Destructuring:** Hantera formulärdata, grundläggande validering av input. Introduktion till Destructuring för objekt och arrayer.
+* **[Tisdag]** (Mandus?) - **Events, Bubbling, Event Handling, Prevent Default:** Fördjupning i händelsehantering, förstå händelseflödet (bubbling), `event.preventDefault()`. Arbeta med att reagera på och manipulera data baserat på events.
+* **[Onsdag]** (Mandus?) - **Intro till Moduler & Projektstruktur:** Varför och hur man använder moduler för att organisera kod i större projekt. Diskussion om projektstruktur. 
+* **[Torsdag]** (Mandus?) - **Repetition & Code-Along:** Repetition av tidigare koncept. Gemensam code-along för ett större projekt för att knyta ihop allt.
 * **\[Fredag\]** (Mandus?) - **Jobb med stora övningen "Bucket List":** Handledning
 
