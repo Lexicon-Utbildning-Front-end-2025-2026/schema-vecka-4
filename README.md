@@ -55,6 +55,7 @@ Efter denna vecka ska du:
 * **[Måndag]** (Mandus?) - **Formulär i TypeScript & Typvalidering & Destructuring:** Hantera formulärdata, grundläggande validering av input. Introduktion till Destructuring för objekt och arrayer.
 * **[Tisdag]** (Mandus?) - **Events, Bubbling, Event Handling, Prevent Default:** Fördjupning i händelsehantering, förstå händelseflödet (bubbling), `event.preventDefault()`. Arbeta med att reagera på och manipulera data baserat på events.
 * **[Onsdag]** (Mandus?) - **Intro till Moduler & Projektstruktur:** Varför och hur man använder moduler för att organisera kod i större projekt. Diskussion om projektstruktur. 
-* **[Torsdag]** (Mandus?) - **Repetition & Code-Along:** Repetition av tidigare koncept. Gemensam code-along för ett större projekt för att knyta ihop allt.
-* **\[Fredag\]** (Mandus?) - **Jobb med stora övningen "Bucket List":** Handledning
+* **[Torsdag]** (Mandus?) - **Repetition & Code-Along:** Repetition av tidigare koncept. Gemensam code-along för ett större projekt för att knyta ihop allt. Jobb med övning på eftermiddagen.
+* **[Fredag]** (Mandus?) - **Code review** FM: code review på övning. EM: e-learning.
+
 
