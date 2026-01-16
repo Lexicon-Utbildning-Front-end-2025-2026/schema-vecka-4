@@ -29,8 +29,10 @@ Denna vecka tar vi steget från statisk data till fullt interaktiva applikatione
 
 ### Mål för dagen
 * Förstå **Events** på djupet (Bubbling vs Capturing).
+* Förstå **JSON** vad det är.
 * Kunna använda `event.preventDefault()` för att stoppa formulär från att ladda om sidan.
 * Kunna använda **Event Delegation** för att hantera klick i listor effektivt.
+* Kunna använda **Local Storage** för att spara data lokalt.
 
 ### Läsning
 * [(MDN) Event bubbling and capture](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Events#event_bubbling_and_capture)
