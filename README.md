@@ -20,7 +20,7 @@ Denna vecka tar vi steget från statisk data till fullt interaktiva applikatione
 
 ### Övningar
 * **Implementera Formulär:** Skapa ett formulär i ditt projekt (t.ex. "Lägg till ny låt", "Lägg till produkt" eller "Ny Todo").
-* **Logga data:** Se till att du kan fånga upp det användaren skriver och logga det i konsolen som ett snyggt objekt.
+* **Logga data:** Se till att du kan fånga upp det användaren skriver som input för att få appen mer dynamisk.
 * **Destructuring:** Gå igenom din kod och se var du kan använda destructuring (t.ex. `const { title, artist } = song` istället för `song.title`).
 
 ---
