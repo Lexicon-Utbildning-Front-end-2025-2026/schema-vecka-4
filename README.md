@@ -19,9 +19,7 @@ Denna vecka tar vi steget från statisk data till fullt interaktiva applikatione
 * [(TypeScript Handbook) Type Assertion (as HTMLInputElement)](https://www.typescriptlang.org/docs/handbook/2/everyday-types.html#type-assertions)
 
 ### Övningar
-* **Implementera Formulär:** Skapa ett formulär i ditt projekt (t.ex. "Lägg till ny låt", "Lägg till produkt" eller "Ny Todo").
-* **Logga data:** Se till att du kan fånga upp det användaren skriver som input för att få appen mer dynamisk.
-* **Destructuring:** Gå igenom din kod och se var du kan använda destructuring (t.ex. `const { title, artist } = song` istället för `song.title`).
+* [Dagens Uppgift](https://github.com/linuszocom/TypeScript-Mini-Projekt-Forms)
 
 ---
 
