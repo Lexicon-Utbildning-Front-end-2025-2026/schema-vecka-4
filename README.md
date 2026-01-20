@@ -38,8 +38,7 @@ Denna vecka tar vi steget från statisk data till fullt interaktiva applikatione
 * [(JavaScript.info) Event Delegation](https://javascript.info/event-delegation)
 
 ### Övningar
-* **Spara data:** Koppla ihop ditt formulär med din lista. När användaren klickar "Spara" ska det nya objektet läggas till i din array och synas på skärmen.
-* **Optimera klick:** Om du har en `addEventListener` på varje kort i din lista – skriv om det så att du bara har *en* lyssnare på hela behållaren (Event Delegation).
+* [Dagens Uppgift](https://github.com/linuszocom/TypeScript-Mini-Projekt-EventDelegation-SparaData)
 
 ---
 
