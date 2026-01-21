@@ -53,10 +53,7 @@ Denna vecka tar vi steget från statisk data till fullt interaktiva applikatione
 * [(TypeScript Handbook) Modules](https://www.typescriptlang.org/docs/handbook/2/modules.html)
 
 ### Övningar
-* **Städa koden:** Dela upp din `main.ts`.
-    * Flytta alla `interface` till en egen fil (t.ex. `interfaces.ts`).
-    * Flytta hjälpfunktioner till en egen fil (t.ex. `utils.ts`).
-* **Importera/Exportera:** Se till att allt fungerar som förut genom att använda `import` och `export`.
+* [Dagens Uppgift](https://github.com/linuszocom/TypeScript-Mini-Projekt-Refaktorering)
 
 ---
 
