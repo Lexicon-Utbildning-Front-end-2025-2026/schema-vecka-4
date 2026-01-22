@@ -72,6 +72,10 @@ Denna vecka tar vi steget från statisk data till fullt interaktiva applikatione
 * **Refactoring:** Fortsätt putsa på ditt projekt. Är dina variabelnamn tydliga? Är koden uppdelad i bra funktioner?
 * **Bonus:** Försök flytta din hårdkodade data till en `data.json`-fil och hämta in den med `fetch()` när sidan laddas.
 
+### Dagens Kod
+* [Dagens Kod (Bonus)](https://github.com/linuszocom/TypeScript-Mini-Projekt-Asyns-await/tree/main)
+
+
 ---
 
 ## 📅 Fredag
