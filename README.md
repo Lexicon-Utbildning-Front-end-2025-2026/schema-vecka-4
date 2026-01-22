@@ -84,9 +84,11 @@ Fördjupa förståelsen genom att granska och diskutera kod. Vi fokuserar på hu
 * **I grupp:**
     * Visa hur ni hanterar formuläret: Var skapas objektet? Var valideras det?
     * Visa hur ni strukturerat era filer: Varför valde ni att dela upp det som ni gjorde?
-* **Gemensamt:**
     * Vad är fördelen med att använda `Event Delegation` istället för att ha lyssnare på varje element?
     * Hur kändes det att bryta upp koden i moduler – blev det lättare eller svårare att hitta?
+    * Utvärdera arbetet i er grupp. Vad har ni tyckt om och vad vill ni ta med er till nästa grupp och vad skulle ni vilja ändra till nästa grupp?
+* **Gemensamt:**
+   * Ingen återsamling denna vecka då det är många frågor att diskutera i gruppen. 
 
 ### Övningar
 * **Code Review:** Gå igenom era projekt i basgrupperna.
